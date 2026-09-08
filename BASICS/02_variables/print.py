@@ -1,8 +1,8 @@
 """PRINT SOMETHING FROM A VARIABLE
 
-HINT VARIABLES ARE MADE USING > NAME = CONTENT
+HINT VARIABLES ARE MADE USING -> NAME = CONTENT
 
-REMEMBER: print(varible)
+REMEMBER: print(variable)
 """
 
 # enter logic under here gng 🥶🥶🥶

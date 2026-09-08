@@ -13,7 +13,7 @@ Example idea:
 Hello Bramity!
 Your favorite game is Minecraft.
 
-DO NOT just copy that exact example unless you are a COWARD.
+DO NOT just copy that exact example unless you are a FAGGOT.
 """
 
 # put your logic under here

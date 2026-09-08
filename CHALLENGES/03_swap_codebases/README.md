@@ -1,99 +1,40 @@
 # SWAP CODEBASES
 
-This challenge is evil.
-
-You start making a game.
-
-Then somebody else has to finish it.
-
----
-
-# PLAYERS
-
-2 or more people.
-
-Everyone should use the same language if possible.
-
-Recommended:
-Python.
+**Difficulty:** 🔴 Advanced  
+**Recommended time:** 40 minutes  
+**Players:** 2+  
+**Recommended prerequisites:** functions, readable code, debugging  
 
 ---
 
-# PHASE 1
+# RULES
 
-20 minutes.
-
-Everyone independently starts a small game.
-
-You are allowed to:
-
-- make functions
-- create variables
-- build mechanics
-- write comments
-
-You are NOT allowed to prepare a giant explanation for the next person.
-
-Write code like a normal human.
-
----
-
-# THE SWAP
-
-At 20 minutes:
-
-STOP.
-
-Trade projects with another person.
-
-NO EXPLANATION.
-
-You may not tell them:
-
-- what you were planning
-- how your code works
-- what variable does what
-- what bug you were working on
-
-They have to read it.
-
----
-
-# PHASE 2
-
-20 minutes.
-
-Finish or improve the game you received.
-
-You are allowed to:
-
-- fix bugs
-- add features
-- remove unfinished stuff
-- rewrite confusing sections
+- Everyone gets 20 minutes to start a small game.
+- At 20 minutes, everyone swaps projects.
+- Nobody may explain their code.
+- You get 20 minutes to finish or improve the project you received.
 
 ---
 
 # SCORING
 
-Judge the FINAL project.
+Score each category from **0–5** unless your group decides otherwise:
 
-0–5 each:
-
-- Fun
-- Completeness
-- How Well Phase 2 Understood The Code
+- Final Game
 - Code Readability
+- Adaptation
+- Completeness
 - Creativity
 
 ---
 
-# SECRET LESSON
+# WHAT THIS SECRETLY TEACHES
 
-This challenge teaches something tutorials almost never teach:
+- reading unfamiliar code
+- collaboration
 
-READING SOMEONE ELSE'S CODE.
+---
 
-If your code is incomprehensible and the next person suffers:
+# OPTIONAL VARIANT
 
-that is part of the challenge.
+Swap again every 15 minutes in a 45-minute round.

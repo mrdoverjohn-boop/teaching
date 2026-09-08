@@ -1,68 +1,41 @@
 # 100 LINE GAME
 
-Make the best game possible in:
-
-# 100 LINES OR LESS
-
-Recommended language:
-Python.
+**Difficulty:** 🟠 Intermediate  
+**Recommended time:** 45 minutes  
+**Players:** 1+  
+**Recommended prerequisites:** functions, loops, lists  
 
 ---
 
 # RULES
 
-The game must have:
-
-- player input
-- a goal
-- an ending
-- at least one mechanic
-
-Maximum:
-
-100 lines of executable/source code.
-
-Blank lines do not count.
-
-Comment-only lines do not count.
-
-Do not intentionally smash six commands onto one unreadable line just to cheat.
-
-If everyone agrees that a line is obviously only there to abuse the rule:
-
-it counts anyway.
-
----
-
-# TIME LIMIT
-
-Recommended:
-
-45 minutes.
-
----
-
-# WHY THIS EXISTS
-
-This challenge forces you to ask:
-
-- can I make this function reusable?
-- am I repeating myself?
-- do I REALLY need this feature?
-- can I simplify this mechanic?
-
-The goal is NOT to make the shortest code.
-
-The goal is to make the BEST game while living inside a hard limit.
+- Make the best game possible in 100 source-code lines or fewer.
+- Blank lines and comment-only lines do not count.
+- Do not cheat by cramming unreadable amounts of code onto one line.
+- The game still needs a clear objective and ending.
 
 ---
 
 # SCORING
 
-0–5 each:
+Score each category from **0–5** unless your group decides otherwise:
 
 - Fun
-- Creativity
 - Completeness
 - Code Organization
-- Use of the 100-Line Limit
+- Creativity
+- Use of Limit
+
+---
+
+# WHAT THIS SECRETLY TEACHES
+
+- scope control
+- reusable code
+- organization
+
+---
+
+# OPTIONAL VARIANT
+
+Try 75 lines once everyone gets better.

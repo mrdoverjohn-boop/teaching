@@ -1,77 +1,40 @@
-# ONE HOUR GAME RESCUE
+# GAME RESCUE
 
-Everyone receives the same terrible unfinished game.
-
-Your job:
-
-# SAVE IT.
-
----
-
-# STARTER PROJECT
-
-The teacher creates a bad but understandable game.
-
-It should contain things like:
-
-- ugly output
-- repeated code
-- at least one bug
-- unfinished mechanics
-- confusing variable names
-- a mechanic that barely works
-
-Do NOT make it intentionally unreadable.
-
-The goal is to improve code, not decode hieroglyphics.
+**Difficulty:** 🟠 Intermediate  
+**Recommended time:** 60 minutes  
+**Players:** 1+  
+**Recommended prerequisites:** debugging, functions, refactoring  
 
 ---
 
-# TIME
+# RULES
 
-60 minutes.
-
----
-
-# YOU MAY
-
-- fix bugs
-- rename things
-- make functions
-- remove bad systems
-- add new mechanics
-- improve text/UI
-- reorganize code
-- add polish
-
----
-
-# YOU MAY NOT
-
-Completely replace the project with an unrelated game.
-
-The final game should clearly be an improved version of the original.
+- Everyone receives the same bad unfinished game.
+- Fix bugs, improve readability, remove bad ideas, and add useful mechanics.
+- The final project must still clearly be the same game.
+- Do not replace everything with an unrelated project.
 
 ---
 
 # SCORING
 
-0–5 each:
+Score each category from **0–5** unless your group decides otherwise:
 
 - Improvement
-- Fun
 - Stability
+- Fun
 - Code Quality
 - Creativity
 
 ---
 
-# SECRET LESSON
+# WHAT THIS SECRETLY TEACHES
 
-Real programming is VERY often:
+- working with existing code
+- improving systems
 
-"Here is code somebody already wrote.
+---
 
-Please make it not suck."
+# OPTIONAL VARIANT
 
-This challenge trains exactly that.
+Give each person a slightly different broken version.

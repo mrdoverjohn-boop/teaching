@@ -1,102 +1,42 @@
 # FEATURE AUCTION
 
-You all start with the same simple game.
-
-Then you BID for features.
-
-If you buy one:
-
-YOU HAVE TO BUILD IT.
+**Difficulty:** 🟠 Intermediate  
+**Recommended time:** 45 minutes  
+**Players:** 2+ / teams  
+**Recommended prerequisites:** functions, planning  
 
 ---
 
-# STARTING GAME
+# RULES
 
-Use a very small starter project.
-
-Example:
-
-- player has health
-- enemy has health
-- player can attack
-- game ends when somebody reaches 0 health
-
-Everyone starts from the SAME code.
-
----
-
-# MONEY
-
-Each player/team starts with:
-
-100 fake credits.
-
----
-
-# AUCTION FEATURES
-
-Example list:
-
-- Inventory
-- Healing Item
-- Random Enemy
-- Critical Hits
-- Shop
-- Boss Fight
-- Score System
-- Secret Ending
-- Multiple Weapons
-- Random Event
-- NPC
-- Save System
-
-Auction them one at a time.
-
-Highest bidder gets that requirement.
-
-Nobody else may implement that EXACT feature unless the rules say otherwise.
-
----
-
-# IMPORTANT
-
-If you buy a feature:
-
-you MUST attempt to implement it.
-
-That is the risk.
-
-Buying 9 complicated systems because they sound cool can absolutely destroy you.
-
----
-
-# BUILD TIME
-
-Recommended:
-
-45 minutes after the auction.
+- Everyone starts from the same tiny game.
+- Each team gets 100 fake credits.
+- Auction features like inventory, boss fight, healing, NPCs, shops, or secrets.
+- If you win a feature, you must attempt to implement it.
+- Do not buy more work than you can finish.
 
 ---
 
 # SCORING
 
-0–5 each:
+Score each category from **0–5** unless your group decides otherwise:
 
+- Feature Quality
 - Fun
 - Completeness
-- Feature Implementation
-- Creativity
 - Scope Management
+- Creativity
 
 ---
 
-# SECRET LESSON
+# WHAT THIS SECRETLY TEACHES
 
-This teaches:
-
-- feature prioritization
 - scope
-- planning
-- not adding every cool idea imaginable
+- prioritization
+- feature planning
 
-Welcome to software development.
+---
+
+# OPTIONAL VARIANT
+
+Negative features can be auctioned too, like 'must only have 3 commands'.

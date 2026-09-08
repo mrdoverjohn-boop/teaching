@@ -11,6 +11,8 @@ Print:
 
 BONUS:
 - division
+
+ASK THE FUCKING TEACHER FOR HELP IF NEEDED GANG
 """
 
 # logic under here
