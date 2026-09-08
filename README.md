@@ -19,6 +19,7 @@ Recommended next order:
 After `05_if_statements`, start giving tiny projects.
 
 After `06_while_loops`, they can make:
+
 - number guessing games
 - tiny text adventures
 - basic menus
@@ -28,6 +29,7 @@ After `10_random`, DO THE 30 MINUTE GAME CHALLENGE.
 
 Do not make them memorize everything.
 The point is:
+
 - explain one thing
 - make them use it
 - make them break it
