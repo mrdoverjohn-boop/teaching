@@ -1,24 +1,19 @@
-"""Another REALLY important part of python is
+"""INPUT PRACTICE
 
-INPUT
+Ask the user for:
+1. their name
+2. their favorite game
 
-there is an input function that is input()
+Save BOTH answers in variables.
 
-THERE IS SOMETHING WEIRD ABOUT IT THOUGH
+Then print something using BOTH variables.
 
-the input() function doesn't work unless you put it in a variable
-this is because its a return function (probably)
-meaning you input something into it and it returns something
+Example idea:
 
-so for example
+Hello Bramity!
+Your favorite game is Minecraft.
 
-input() -> wait for input -> returns input to nothing
-
-so you need to put it in a variable
-
-user_input = input() -> wait for input -> returns input and now user_input == (whenever you see == it means "is equal to") what the user put down
-
-TRY IT NOW
+DO NOT just copy that exact example unless you are a COWARD.
 """
 
-# Put thelogic under here
+# put your logic under here

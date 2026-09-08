@@ -2,131 +2,79 @@
 
 ## INPUT
 
-Another **REALLY** important part of Python is
+Another REALLY important part of Python is:
 
-# INPUT
+# `input()`
 
-There is an input function that is `input()`.
+`input()` pauses the program and waits for the user to type something.
 
-### THERE IS SOMETHING WEIRD ABOUT IT THOUGH
+For example:
 
-The `input()` function doesn't work unless you put it in a variable.
-
-This is because it's a **return function** (probably).
-
-Meaning you input something into it and it **returns** something.
-
-So for example:
-
-```text
-input() -> wait for input -> returns input to nothing
+```python
+input()
 ```
 
-So you need to put it in a variable:
+This DOES work by itself.
+
+The problem is that if you do this, Python receives what the user typed and then immediately throws it away because you never saved it.
+
+So most of the time you want:
 
 ```python
 user_input = input()
 ```
 
+Now the process is basically:
+
 ```text
--> wait for input
--> returns input
--> now user_input == whatever the user put down
+input()
+-> wait for the user
+-> user types something
+-> input() RETURNS that text
+-> save the returned text inside user_input
 ```
 
-Whenever you see `==`, it means **"is equal to."**
-
-### TRY IT NOW
-
----
-
-# FOR THE PRINT SECTION
-
-The most important part of every language is the **print function** (we will get into what a function is later).
-
-### `print(contents)`
-
-The print function outputs whatever you place into it (that's what the contents are) and prints it.
-
-## For example
+Then you can do:
 
 ```python
-print("Hello, Foxz!")
+print(user_input)
 ```
 
-### Would output
-
-```text
-Hello, Foxz!
-```
-
-into the CLI (**Command Line Interface**).
-
-That's all that we will get into for **JUST** this first part.
-
----
-
-# FOR THE VARIABLE SECTION
-
-Probably the **SECOND** most important concept in programming is
-
-### Variables
-
-It is basically just the same thing as a variable in algebra.
-
-```text
-x = 5
-2 * x = ?
-```
-
-A variable is almost the **EXACT SAME**.
-
-## BUT
-
-It is more so like a **storage of data** rather than just an "unknown number."
-
-You can store things like:
-
-- Text (**Strings**)
-- Whole numbers (**Integers**)
-- Decimal numbers (**Floats**)
-- True or False (**Booleans**)
-
-BUT the best thing about Python is that
-
-### YOU DON'T EVEN NEED TO WORRY ABOUT VARIABLE DATA TYPES HALF THE TIME
-
-If you type:
+## YOU CAN ALSO PUT TEXT INSIDE INPUT
 
 ```python
-variable = 50
+name = input("What is your name? ")
+print(name)
 ```
 
-in something like Java, it says:
+The text inside `input()` is called a **prompt**.
 
-> What the fuck dude gimme a data type how am I supposed to know otherwise
+## IMPORTANT WEIRD THING
 
-But in Python, he says:
+`input()` ALWAYS gives you a string.
 
-> well OBVIOUSLY it HAS to be an INTEGER because it's a whole number! right?
+So:
 
-And that's REALLY nice starting out.
+```python
+age = input("How old are you? ")
+```
 
----
+Even if someone types:
 
-# NOW FOR WHAT YOU SHOULD DO NEXT
+```text
+16
+```
 
-Use a variable to print something out.
+Python currently sees it as `"16"` — TEXT.
 
-Whether that is a:
+We will fix that in the next lesson.
 
-- Boolean
-- Float
-- Integer
-- String
+# TRY IT
 
-It doesn't matter.
+Ask the user for:
+1. their name
+2. their favorite game
 
-**Just use a variable.**
+Then print both answers back to them.
 
-# Good Luck!
+Good luck gng 🥶
